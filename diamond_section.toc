@@ -1,0 +1,11 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}The solution}{3}
+\contentsline {section}{\numberline {1.1}Construction}{3}
+\contentsline {subsection}{\numberline {1.1.1}Proof}{7}
+\contentsline {section}{\numberline {1.2}Definition}{10}
+\contentsline {section}{\numberline {1.3}Why}{11}
+\contentsline {section}{\numberline {1.4}Conclusion}{11}
+\contentsline {section}{\numberline {1.5}Appendix}{12}
+\contentsline {section}{\numberline {1.6}Resources}{13}
+\contentsline {section}{\numberline {1.7}Thanks}{13}
+\contentsline {section}{\numberline {1.8}Notes}{13}
