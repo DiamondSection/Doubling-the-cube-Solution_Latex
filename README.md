@@ -1,6 +1,6 @@
 # The solution to the doubling the cube problem.
 
-<img src="https://raw.githubusercontent.com/DiamondSection/Doubling-the-cube-Solution_Latex/master/ds_new_def.jpg" alt="">
+<img src="https://raw.githubusercontent.com/DiamondSection/Doubling-the-cube-Solution_Latex/master/ds_new_def.jpg" alt="Definition" width="400px">
 
 ## Citation
 ``` 
