@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.6)  21 APR 2018 00:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.6)  21 APR 2018 10:24
 entering extended mode
 **./diamond_section.tex
 (diamond_section.tex
@@ -657,24 +657,24 @@ G,.JBIG2,.JB2,.eps]
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-<ds_tr.jpg, id=1, 1452.42625pt x 1381.16pt>
-File: ds_tr.jpg Graphic file (type jpg)
-<use ds_tr.jpg>
-Package pdftex.def Info: ds_tr.jpg  used on input line 110.
+<images/ds_tr.jpg, id=1, 1452.42625pt x 1381.16pt>
+File: images/ds_tr.jpg Graphic file (type jpg)
+<use images/ds_tr.jpg>
+Package pdftex.def Info: images/ds_tr.jpg  used on input line 110.
 (pdftex.def)             Requested size: 290.4801pt x 276.2271pt.
  [1
 
-{C:/Users/Putin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./ds_tr.jpg
->]
-<cubes.jpg, id=9, 306.9066pt x 204.5241pt>
-File: cubes.jpg Graphic file (type jpg)
-<use cubes.jpg>
-Package pdftex.def Info: cubes.jpg  used on input line 133.
+{C:/Users/Putin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/ds
+_tr.jpg>]
+<images/cubes.jpg, id=9, 306.9066pt x 204.5241pt>
+File: images/cubes.jpg Graphic file (type jpg)
+<use images/cubes.jpg>
+Package pdftex.def Info: images/cubes.jpg  used on input line 133.
 (pdftex.def)             Requested size: 354.12146pt x 236.00914pt.
-<compass.jpg, id=10, 431.211pt x 253.9086pt>
-File: compass.jpg Graphic file (type jpg)
-<use compass.jpg>
-Package pdftex.def Info: compass.jpg  used on input line 138.
+<images/compass.jpg, id=10, 431.211pt x 253.9086pt>
+File: images/compass.jpg Graphic file (type jpg)
+<use images/compass.jpg>
+Package pdftex.def Info: images/compass.jpg  used on input line 138.
 (pdftex.def)             Requested size: 404.71355pt x 238.31767pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 125--141
@@ -692,7 +692,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[1 <./cubes.jpg> <./compass.jpg>] (diamond_section.toc)
+[1 <./images/cubes.jpg> <./images/compass.jpg>] (diamond_section.toc)
 \tf@toc=\write3
 \openout3 = `diamond_section.toc'.
 
@@ -700,95 +700,95 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 Chapter 1.
-<secnd.jpg, id=22, 1584.92125pt x 1347.0325pt>
-File: secnd.jpg Graphic file (type jpg)
-<use secnd.jpg>
-Package pdftex.def Info: secnd.jpg  used on input line 152.
+<images/secnd.jpg, id=22, 1584.92125pt x 1347.0325pt>
+File: images/secnd.jpg Graphic file (type jpg)
+<use images/secnd.jpg>
+Package pdftex.def Info: images/secnd.jpg  used on input line 152.
 (pdftex.def)             Requested size: 316.97864pt x 269.40173pt.
-<intersection.jpg, id=23, 1415.2875pt x 1126.2075pt>
-File: intersection.jpg Graphic file (type jpg)
-<use intersection.jpg>
-Package pdftex.def Info: intersection.jpg  used on input line 164.
+<images/intersection.jpg, id=23, 1415.2875pt x 1126.2075pt>
+File: images/intersection.jpg Graphic file (type jpg)
+<use images/intersection.jpg>
+Package pdftex.def Info: images/intersection.jpg  used on input line 164.
 (pdftex.def)             Requested size: 283.05249pt x 225.2375pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [3
 
- <./secnd.jpg>]
+ <./images/secnd.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 174--175
 
  []
 
-<cbg.jpg, id=28, 327.8649pt x 200.9106pt>
-File: cbg.jpg Graphic file (type jpg)
-<use cbg.jpg>
-Package pdftex.def Info: cbg.jpg  used on input line 180.
+<images/cbg.jpg, id=28, 327.8649pt x 200.9106pt>
+File: images/cbg.jpg Graphic file (type jpg)
+<use images/cbg.jpg>
+Package pdftex.def Info: images/cbg.jpg  used on input line 180.
 (pdftex.def)             Requested size: 295.07567pt x 180.81786pt.
-[4 <./intersection.jpg> <./cbg.jpg>]
-<bisector0.jpg, id=32, 290.7663pt x 234.6366pt>
-File: bisector0.jpg Graphic file (type jpg)
-<use bisector0.jpg>
-Package pdftex.def Info: bisector0.jpg  used on input line 186.
+[4 <./images/intersection.jpg> <./images/cbg.jpg>]
+<images/bisector0.jpg, id=32, 290.7663pt x 234.6366pt>
+File: images/bisector0.jpg Graphic file (type jpg)
+<use images/bisector0.jpg>
+Package pdftex.def Info: images/bisector0.jpg  used on input line 186.
 (pdftex.def)             Requested size: 261.68724pt x 211.17097pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 197--198
 
  []
 
-<circle.jpg, id=33, 282.3348pt x 216.81pt>
-File: circle.jpg Graphic file (type jpg)
-<use circle.jpg>
-Package pdftex.def Info: circle.jpg  used on input line 201.
+<images/circle.jpg, id=33, 282.3348pt x 216.81pt>
+File: images/circle.jpg Graphic file (type jpg)
+<use images/circle.jpg>
+Package pdftex.def Info: images/circle.jpg  used on input line 201.
 (pdftex.def)             Requested size: 225.86813pt x 173.44823pt.
-[5 <./bisector0.jpg> <./circle.jpg>]
-<triangle2.jpg, id=39, 292.2117pt x 227.1687pt>
-File: triangle2.jpg Graphic file (type jpg)
-<use triangle2.jpg>
-Package pdftex.def Info: triangle2.jpg  used on input line 208.
+[5 <./images/bisector0.jpg> <./images/circle.jpg>]
+<images/triangle2.jpg, id=39, 292.2117pt x 227.1687pt>
+File: images/triangle2.jpg Graphic file (type jpg)
+<use images/triangle2.jpg>
+Package pdftex.def Info: images/triangle2.jpg  used on input line 208.
 (pdftex.def)             Requested size: 292.21098pt x 227.16814pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 220--221
 
  []
 
-<iterations.jpg, id=40, 1906.12125pt x 1027.84pt>
-File: iterations.jpg Graphic file (type jpg)
-<use iterations.jpg>
-Package pdftex.def Info: iterations.jpg  used on input line 224.
+<images/iterations.jpg, id=40, 1906.12125pt x 1027.84pt>
+File: images/iterations.jpg Graphic file (type jpg)
+<use images/iterations.jpg>
+Package pdftex.def Info: images/iterations.jpg  used on input line 224.
 (pdftex.def)             Requested size: 354.12146pt x 190.94728pt.
-[6 <./triangle2.jpg> <./iterations.jpg>]
+[6 <./images/triangle2.jpg> <./images/iterations.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 252--257
 
  []
 
 [7]
-<g_x_func.jpg, id=50, 854.19125pt x 1101.11375pt>
-File: g_x_func.jpg Graphic file (type jpg)
-<use g_x_func.jpg>
-Package pdftex.def Info: g_x_func.jpg  used on input line 336.
+<images/g_x_func.jpg, id=50, 854.19125pt x 1101.11375pt>
+File: images/g_x_func.jpg Graphic file (type jpg)
+<use images/g_x_func.jpg>
+Package pdftex.def Info: images/g_x_func.jpg  used on input line 336.
 (pdftex.def)             Requested size: 101.17645pt x 130.41418pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 333--340
 
  []
 
-[8 <./g_x_func.jpg>]
+[8 <./images/g_x_func.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 341--344
 
  []
 
-<Table_arrow.png, id=54, 1204.5pt x 657.45625pt>
-File: Table_arrow.png Graphic file (type png)
-<use Table_arrow.png>
-Package pdftex.def Info: Table_arrow.png  used on input line 359.
+<images/Table_arrow.png, id=54, 1204.5pt x 657.45625pt>
+File: images/Table_arrow.png Graphic file (type png)
+<use images/Table_arrow.png>
+Package pdftex.def Info: images/Table_arrow.png  used on input line 359.
 (pdftex.def)             Requested size: 455.29791pt x 248.52179pt.
-<plot.png, id=56, 707.64375pt x 334.24875pt>
-File: plot.png Graphic file (type png)
-<use plot.png>
-Package pdftex.def Info: plot.png  used on input line 365.
+<images/plot.png, id=56, 707.64375pt x 334.24875pt>
+File: images/plot.png Graphic file (type png)
+<use images/plot.png>
+Package pdftex.def Info: images/plot.png  used on input line 365.
 (pdftex.def)             Requested size: 455.29791pt x 215.0558pt.
-[9 <./Table_arrow.png> <./plot.png>]
+[9 <./images/Table_arrow.png> <./images/plot.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 376--378
 
  []
@@ -803,32 +803,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 384--386
 
  []
 
-<ds_new_def.jpg, id=62, 1863.96375pt x 1260.71pt>
-File: ds_new_def.jpg Graphic file (type jpg)
-<use ds_new_def.jpg>
-Package pdftex.def Info: ds_new_def.jpg  used on input line 392.
+<images/ds_new_def.jpg, id=62, 1863.96375pt x 1260.71pt>
+File: images/ds_new_def.jpg Graphic file (type jpg)
+<use images/ds_new_def.jpg>
+Package pdftex.def Info: images/ds_new_def.jpg  used on input line 392.
 (pdftex.def)             Requested size: 354.12146pt x 239.49892pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 388--396
 
  []
 
-[10 <./ds_new_def.jpg>]
-<tetrahedron.jpg, id=66, 214.1601pt x 166.7028pt>
-File: tetrahedron.jpg Graphic file (type jpg)
-<use tetrahedron.jpg>
-Package pdftex.def Info: tetrahedron.jpg  used on input line 414.
+[10 <./images/ds_new_def.jpg>]
+<images/tetrahedron.jpg, id=66, 214.1601pt x 166.7028pt>
+File: images/tetrahedron.jpg Graphic file (type jpg)
+<use images/tetrahedron.jpg>
+Package pdftex.def Info: images/tetrahedron.jpg  used on input line 414.
 (pdftex.def)             Requested size: 151.76854pt x 118.1385pt.
-<ds_def.jpg, id=67, 1903.11pt x 1556.81625pt>
-File: ds_def.jpg Graphic file (type jpg)
-<use ds_def.jpg>
-Package pdftex.def Info: ds_def.jpg  used on input line 429.
+<images/ds_def.jpg, id=67, 1903.11pt x 1556.81625pt>
+File: images/ds_def.jpg Graphic file (type jpg)
+<use images/ds_def.jpg>
+Package pdftex.def Info: images/ds_def.jpg  used on input line 429.
 (pdftex.def)             Requested size: 303.5371pt x 248.28801pt.
- [11 <./tetrahedron.jpg> <./ds_def.jpg>]
-<my_triangle.jpg, id=71, 306.4248pt x 265.7127pt>
-File: my_triangle.jpg Graphic file (type jpg)
-<use my_triangle.jpg>
-Package pdftex.def Info: my_triangle.jpg  used on input line 442.
+ [11 <./images/tetrahedron.jpg> <./images/ds_def.jpg>]
+<images/my_triangle.jpg, id=71, 306.4248pt x 265.7127pt>
+File: images/my_triangle.jpg Graphic file (type jpg)
+<use images/my_triangle.jpg>
+Package pdftex.def Info: images/my_triangle.jpg  used on input line 442.
 (pdftex.def)             Requested size: 354.12146pt x 307.08765pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 454--456
@@ -845,7 +845,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 462--476
 
  []
 
-[12 <./my_triangle.jpg>]
+[12 <./images/my_triangle.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 497--499
 
  []
@@ -860,8 +860,8 @@ hub . com / DiamondSection / Doubling-[]the-[]cube-[]Solution _
 
 ] (diamond_section.aux) ) 
 Here is how much of TeX's memory you used:
- 4994 strings out of 493305
- 69619 string characters out of 3144087
+ 4995 strings out of 493305
+ 70102 string characters out of 3144087
  151751 words of memory out of 3000000
  8437 multiletter control sequences out of 15000+200000
  12238 words of font info for 44 fonts, out of 3000000 for 9000
@@ -879,7 +879,7 @@ pe1/public/amsfonts/cm/cmsl12.pfb><E:/Latex/miktex/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb><E:/Latex/miktex/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:/Lat
 ex/miktex/fonts/type1/public/amsfonts/cm/cmti12.pfb><E:/Latex/miktex/fonts/type
 1/public/amsfonts/cm/cmtt12.pfb>
-Output written on diamond_section.pdf (15 pages, 1927052 bytes).
+Output written on diamond_section.pdf (15 pages, 1927046 bytes).
 PDF statistics:
  131 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
