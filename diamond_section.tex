@@ -113,7 +113,7 @@
 \end{figure}
 \textsc{\LARGE Askarbekov Almas Serikovich }\\[1.5cm]
 \begin{center}
-	\large {hello@diamondsection.com}\\
+	\large {almas@diamondsection.com}\\
 	\today
 \end{center}
 \end{titlepage}
@@ -171,7 +171,7 @@ by the Pythagorean theorem.
 	\dfrac{a}{s}=\dfrac{1}{1.25}=0.8.
 \end{equation}
 \newpage
-To construct the ratio we obtain, we need to draw a line through $\overline{NB}$. Then we get the point $O$ as the intersection of the line and the circle with center at the point $B(1,0)$. So we get the line segment $BP=0.8$, as the projection of the point $O$ on the x-axis. (Figure \ref{intersection})\\ 
+To construct the ratio we obtain, we need to draw a line through the points $N, B$. Then we get the point $O$ as the intersection of the line and the circle with center at the point $B(1,0)$. So we get the line segment $BP=0.8$, as the projection of the point $O$ on the x-axis. (Figure \ref{intersection})\\ 
 	
 	\item Then construct a ray from point $C(2,0)$ through the intersection point $Q$ of the circle with radius $BP=0.8$ and the line segment $\overline{BG}$.
 	\subitem Now we get the point $R$ and the line segment $\overline{BR}$. The segment $\overline{BR}$ is the bisector for $\triangle$ $CBQ$. (Figure 1.2)
@@ -341,7 +341,7 @@ We see that the value in column B on the 20th row (Table   \ref{iterations and v
 \vspace{10pt}
 \\
 \begin{center}
-	Reference value of the $\sqrt[3]{2}$ = \textbf{1.25992104989487316…} (rounded to 17th decimal place)
+	Reference value of the $\sqrt[3]{2}$ = \textbf{1.25992104989487316} with an accuracy of $10^{-17}$ place
 \end{center}
 \vspace{10pt}
 %\vfill in the beginning we can take any arbitrary length as the shortest leg of the right triangle.\\ For convenience, it is better to use a length equal to 0.75, which is easy to construct with compass and straightedge.\\
@@ -351,7 +351,7 @@ We see that the value in column B on the 20th row (Table   \ref{iterations and v
 %Diamond section is the way to find the hypotenuse of the right triangle with longest leg equal to 1, so that cosine of the angle between longest leg and hypotenuse ... 
 
 
-During calculations I used rounding to the  $10^{-15}$, however we can get the final value with any given accuracy. This is because the length of the longest side tend to the cube root of two.
+During calculations I used rounding to the  $10^{-15}$, however we can get the final value with any given accuracy. This is because the length of the longest side tend to the cube root of two\footnote{Analysis online and spreadsheet data:  https://www.geogebra.org/classic/TpwsEbx2}.
 \\
 \begin{figure}[h]
 	\centering
@@ -369,19 +369,29 @@ During calculations I used rounding to the  $10^{-15}$, however we can get the f
 
 \section{Definition}
 
-For the given right triangle $\triangle ABS$ with longest leg $a=1$ and  the bisector $g$ of $\angle SAY=60\degree$ (see Figure \ref{fig:definition}) the Diamond section is the condition where:
+For any $b_{0} > 0$
+\begin{equation}
+\sqrt[3]{2}= \underset{n\to \infty }{lim} \sqrt{1+b_{n}}
+\end{equation}
+where:   
+\begin{equation}
+b_{1}=\dfrac{1}{\sqrt{a^{2}+b_{0}^{2}}};\ \hspace{5pt} b_{2}=\frac{2\times b_{1}}{1+b_{1}}\times\frac{\sqrt{3}}{2}
+\end{equation}
+\begin{equation}
+b_{3}=\dfrac{1}{\sqrt{a^{2}+b_{2}^{2}}};\ \hspace{5pt} b_{4}=\frac{2\times b_{3}}{1+b_{3}}\times\frac{\sqrt{3}}{2} \ ...
+\end{equation}
+\begin{equation}
+b_{n+1}=\dfrac{1}{\sqrt{a^{2}+b_{n}^{2}}};\ \hspace{5pt} b_{n+2}=\frac{2\times b_{n+1}}{1+b_{n+1}}\times\frac{\sqrt{3}}{2}
+\end{equation}
+\\
+in the limit we obtain the following\footnote{geometrically}:
 \begin{equation}
 d=\frac{a}{s}=\frac{1}{\sqrt{1+b^{2}}}
 \end{equation}
 \\
 \begin{equation}
- g=\frac{2\times d}{1+d}\times\frac{\sqrt{3}}{2}
+ b=g=\frac{2\times d}{1+d}\times\frac{\sqrt{3}}{2}
 \end{equation}
-\\
-\begin{equation}
-b=g
-\end{equation}
-\\
 \begin{equation}
 s=\dfrac{1}{d}=\sqrt[3]{2}
 \end{equation}
@@ -394,8 +404,8 @@ s=\dfrac{1}{d}=\sqrt[3]{2}
 \end{figure} \\
 
 \begin{center}
-	\large{Diamond section of  $60 \degree$ angle = $\sqrt[3]{2}$ }
-\\
+%	\large{Diamond section of  $60 \degree$ angle = $\sqrt[3]{2}$ }
+
 %\begin{equation}
 %$\sqrt[3]{2}=\lim_{ n \to \infty } \sqrt{1^{2}+b_{n}^{2}}$; $b_{1}>0$; 
 %\end{equation} 
@@ -418,7 +428,7 @@ The orthogonal vertex projection of a tetrahedron on a 2-D plane is a triangle. 
 
 \section{Conclusion}
 \begin{center}
-	Eventually, 2000 years later, the problem is solved, and the \textbf{cube root of two} \textbf{can be constructed} by a compass and unmarked straightedge.
+	We have seen that the \textbf{cube root of two} \textbf{can be constructed} with any given accuracy by a compass and unmarked straightedge.
 \end{center}
 
 
@@ -489,8 +499,10 @@ In other words the shortest leg $b$ tend to $\sqrt{\varphi-1}$
 %\large \textbf{Author:}
 
 website: \url{ http://diamondsection.com} \\
-e-mail: jobspace@yandex.com \\
+e-mail: almas@diamondsection.com \\
 github: \url{https://github.com/AlmasAskarbekov}
+
+spreadsheet values: \url{https://www.geogebra.org/classic/TpwsEbx2}
 
 \section{Thanks}
 \url{https://geogebra.org}
