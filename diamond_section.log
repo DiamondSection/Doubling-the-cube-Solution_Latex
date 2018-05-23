@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.6)  28 APR 2018 06:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.6)  23 MAY 2018 06:12
 entering extended mode
 **./diamond_section.tex
 (diamond_section.tex
@@ -795,17 +795,22 @@ File: images/plot.png Graphic file (type png)
 Package pdftex.def Info: images/plot.png  used on input line 364.
 (pdftex.def)             Requested size: 455.29791pt x 215.0558pt.
 [9 <./images/Table_arrow.png> <./images/plot.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 390--392
+Underfull \hbox (badness 10000) in paragraph at lines 385--392
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--396
 
  []
 
 <images/ds_new_def.jpg, id=62, 1863.96375pt x 1260.71pt>
 File: images/ds_new_def.jpg Graphic file (type jpg)
 <use images/ds_new_def.jpg>
-Package pdftex.def Info: images/ds_new_def.jpg  used on input line 401.
+Package pdftex.def Info: images/ds_new_def.jpg  used on input line 405.
 (pdftex.def)             Requested size: 354.12146pt x 239.49892pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 397--405
+Underfull \hbox (badness 10000) in paragraph at lines 401--409
 
  []
 
@@ -813,41 +818,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 397--405
 <images/tetrahedron.jpg, id=66, 214.1601pt x 166.7028pt>
 File: images/tetrahedron.jpg Graphic file (type jpg)
 <use images/tetrahedron.jpg>
-Package pdftex.def Info: images/tetrahedron.jpg  used on input line 423.
+Package pdftex.def Info: images/tetrahedron.jpg  used on input line 427.
 (pdftex.def)             Requested size: 151.76854pt x 118.1385pt.
 <images/ds_def.jpg, id=67, 1903.11pt x 1556.81625pt>
 File: images/ds_def.jpg Graphic file (type jpg)
 <use images/ds_def.jpg>
-Package pdftex.def Info: images/ds_def.jpg  used on input line 438.
+Package pdftex.def Info: images/ds_def.jpg  used on input line 442.
 (pdftex.def)             Requested size: 303.5371pt x 248.28801pt.
  [11 <./images/tetrahedron.jpg> <./images/ds_def.jpg>]
 <images/my_triangle.jpg, id=71, 306.4248pt x 265.7127pt>
 File: images/my_triangle.jpg Graphic file (type jpg)
 <use images/my_triangle.jpg>
-Package pdftex.def Info: images/my_triangle.jpg  used on input line 451.
+Package pdftex.def Info: images/my_triangle.jpg  used on input line 455.
 (pdftex.def)             Requested size: 354.12146pt x 307.08765pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 463--465
-
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 467--469
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--485
+Underfull \hbox (badness 10000) in paragraph at lines 471--473
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 475--489
 
  []
 
 [12 <./images/my_triangle.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 508--510
+Underfull \hbox (badness 10000) in paragraph at lines 512--514
 
  []
 
 [13]
-Overfull \hbox (21.76973pt too wide) in paragraph at lines 532--540
+Overfull \hbox (21.76973pt too wide) in paragraph at lines 536--544
 \OT1/cmr/m/n/12 year = 2018, how-pub-lished = $\OT1/cmtt/m/n/12 https : / / git
 hub . com / DiamondSection / Doubling-[]the-[]cube-[]Solution _
  []
@@ -875,7 +880,7 @@ pe1/public/amsfonts/cm/cmsl12.pfb><E:/Latex/miktex/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb><E:/Latex/miktex/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:/Lat
 ex/miktex/fonts/type1/public/amsfonts/cm/cmti12.pfb><E:/Latex/miktex/fonts/type
 1/public/amsfonts/cm/cmtt12.pfb>
-Output written on diamond_section.pdf (15 pages, 1930115 bytes).
+Output written on diamond_section.pdf (15 pages, 1929951 bytes).
 PDF statistics:
  131 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

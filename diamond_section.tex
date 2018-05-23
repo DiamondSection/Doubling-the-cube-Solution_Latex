@@ -368,23 +368,27 @@ During calculations I used rounding to the  $10^{-15}$, however we can get the f
 \newpage
 
 \section{Definition}
-
-For any $b_{0} > 0$
 \begin{equation}
-\sqrt[3]{2}= \underset{n\to \infty }{lim} \sqrt{1+b_{n}}
+\sqrt[3]{2}= \underset{n\to \infty }{lim} \sqrt{1+b_{n}^{2}}
 \end{equation}
 where:   
 \begin{equation}
-b_{1}=\dfrac{1}{\sqrt{a^{2}+b_{0}^{2}}};\ \hspace{5pt} b_{2}=\frac{2\times b_{1}}{1+b_{1}}\times\frac{\sqrt{3}}{2}
+b_{0} > 0,\ \hspace{15pt} b_{1}=\dfrac{1}{\sqrt{1+b_{0}^{2}}},\ \hspace{15pt} b_{2}=\frac{2\times b_{1}}{1+b_{1}}\times\frac{\sqrt{3}}{2}
 \end{equation}
+\vspace{15pt}
 \begin{equation}
-b_{3}=\dfrac{1}{\sqrt{a^{2}+b_{2}^{2}}};\ \hspace{5pt} b_{4}=\frac{2\times b_{3}}{1+b_{3}}\times\frac{\sqrt{3}}{2} \ ...
+b_{3}=\dfrac{1}{\sqrt{1+b_{2}^{2}}},\ \hspace{15pt} b_{4}=\frac{2\times b_{3}}{1+b_{3}}\times\frac{\sqrt{3}}{2} \ ...
 \end{equation}
+\vspace{15pt}
 \begin{equation}
-b_{n+1}=\dfrac{1}{\sqrt{a^{2}+b_{n}^{2}}};\ \hspace{5pt} b_{n+2}=\frac{2\times b_{n+1}}{1+b_{n+1}}\times\frac{\sqrt{3}}{2}
+b_{n+1}=\dfrac{1}{\sqrt{1+b_{n}^{2}}},\ \hspace{15pt} b_{n+2}=\frac{2\times b_{n+1}}{1+b_{n+1}}\times\frac{\sqrt{3}}{2}
 \end{equation}
 \\
-in the limit we obtain the following\footnote{geometrically}:
+\ 
+\ 
+\ 
+\\
+Geometric represantation:
 \begin{equation}
 d=\frac{a}{s}=\frac{1}{\sqrt{1+b^{2}}}
 \end{equation}
